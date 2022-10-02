@@ -1,0 +1,36 @@
+namespace TranslatorModule.Enums
+{
+    public enum DictionariesKeys
+    {
+        None,
+        Save,
+        Load,
+        LanguageMenu,
+        MainMenu,
+        Buy,
+        Sell,
+        Close,
+        NewGame,
+        Continue,
+        Exit,
+        ConfirmQuitAppText,
+        yes,
+        no,
+        ConfirmSaveText,
+        ConfirmLoadText,
+        ConfirmNewGameText,
+        DarkTheme,
+        PreviousChapter,
+        NextChapter,
+        Chapter,
+        Settings,
+        Music,
+        GoByLink,
+        AboutMe,
+        AboutMeText,
+        GraphicsText,
+        Volume,
+        RenderDistance,
+        NameOfGame
+    }
+}

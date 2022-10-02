@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="">
+    <Position X="15.225" Y="15.617" Height="0.75" Width="13.107" />
+  </Comment>
+  <Comment CommentText="">
+    <Position X="0.5" Y="3.747" Height="0.75" Width="27.396" />
+  </Comment>
+  <Class Name="RayCastHitManager.CheckRayHitByTarget.CheckRayHitByTargetTag" Collapsed="true">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\CheckRayHitByTarget\CheckRayHitByTargetTag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RayCastHitManager.CheckRayHitByTarget.CheckRayHitByTargetTypeBase&lt;T&gt;" Collapsed="true">
+    <Position X="1.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\CheckRayHitByTarget\CheckRayHitByTargetTypeBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RayCastHitManager.CheckRayHitByTarget.CheckRayHitByTargetTypeOutline" Collapsed="true">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\CheckRayHitByTarget\CheckRayHitByTargetTypeOutline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.CheckRayHitByTarget.CheckRayHitByTargetTypeRenderer" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\CheckRayHitByTarget\CheckRayHitByTargetTypeRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHit.Mouse.MouseRaycastHit" Collapsed="true">
+    <Position X="9.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHit\Mouse\MouseRaycastHit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHit.Mouse.MouseRaycastHitLayerMask" Collapsed="true">
+    <Position X="9.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHit\Mouse\MouseRaycastHitLayerMask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHit.Mouse.MouseRaycastHitLimitedDistance" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHit\Mouse\MouseRaycastHitLimitedDistance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHit.Mouse.MouseRaycastHitLimitedDistanceLayerMask" Collapsed="true">
+    <Position X="12" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHit\Mouse\MouseRaycastHitLimitedDistanceLayerMask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHit.ScreenCenter.ScreenCenterRayCastHit" Collapsed="true">
+    <Position X="9.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHit\ScreenCenter\ScreenCenterRayCastHit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHit.ScreenCenter.ScreenCenterRayCastHitLayerMask" Collapsed="true">
+    <Position X="9.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHit\ScreenCenter\ScreenCenterRayCastHitLayerMask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHit.ScreenCenter.ScreenCenterRayCastHitLimitedDistance" Collapsed="true">
+    <Position X="7.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHit\ScreenCenter\ScreenCenterRayCastHitLimitedDistance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHit.ScreenCenter.ScreenCenterRayCastHitLimitedDistanceLayerMask" Collapsed="true">
+    <Position X="12" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHit\ScreenCenter\ScreenCenterRayCastHitLimitedDistanceLayerMask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.ErrorTextRayCastHitService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAUAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\ErrorTextRayCastHitService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.ExecuteOperationByKeyCodeOnRayEnterBase">
+    <Position X="17" Y="7" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAAAAAAAAAAAAAAAAgAAAAAAAABACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\ExecuteOperationByKeyCodeOnRayEnterBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.InfoTextRayCastHitService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEQAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\InfoTextRayCastHitService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.ListExecuteOperationByKeyCodeOnRayEnter">
+    <Position X="20" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\ListExecuteOperationByKeyCodeOnRayEnter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.ListOfRayCastHitServices" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAQAAAAAAAAAAAAAAAAAAAAAAAABAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\ListOfRayCastHitServices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.MaterialSelectionService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAACAAAAAAAAAAAAAEAAAEAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\MaterialSelectionService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.Monitor2_A">
+    <Position X="15.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\Monitor2_A.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.Monitor2_B">
+    <Position X="20" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\Monitor2_B.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.OutlineSelectionService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\OutlineSelectionService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.Abstract.IExecuteOperationByKeyCodeOnRayEnter">
+    <Position X="22.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\Abstract\IExecuteOperationByKeyCodeOnRayEnter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.Concrete.Monitor1_A">
+    <Position X="22.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\Concrete\Monitor1_A.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.RayCastHitManagerServices.Concrete.Monitor1_B">
+    <Position X="24.75" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Concrete\RayCastHitManagerServices\Concrete\Monitor1_B.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayCastHitManager.Main.RayCastHitManager" Collapsed="true">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAAAAAAAAAAAgAAAABAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Main\RayCastHitManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RayCastHitManager.Abstract.ICheckRayCastHitByTarget" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Abstract\ICheckRayCastHitByTarget.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RayCastHitManager.Abstract.IRayCastHit" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Abstract\IRayCastHit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RayCastHitManager.Abstract.IRayCastHitManagerService" Collapsed="true">
+    <Position X="17.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\RayCastHitManager\Abstract\IRayCastHitManagerService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

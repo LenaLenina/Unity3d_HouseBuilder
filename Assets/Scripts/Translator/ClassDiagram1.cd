@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TranslatorModule.Abstract.AbstractUIDictionary">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Modules\Translator\Abstract\AbstractUIDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TranslatorModule.Abstract.AbstractLanguageStorage">
+    <Position X="19.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Modules\Translator\Abstract\AbstractLanguageStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TranslatorModule.Concrete.EnglishUIDictionary">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Modules\Translator\Concrete\EnglishUIDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TranslatorModule.Concrete.LanguageStorage">
+    <Position X="19.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Modules\Translator\Concrete\LanguageStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TranslatorModule.Concrete.RussianUIDictionary">
+    <Position X="12.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Modules\Translator\Concrete\RussianUIDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TranslatorModule.Main.CurrentUIDictionary">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABEEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Modules\Translator\Main\CurrentUIDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TranslatorModule.Main.TranslateUIText">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAAAAAAIAAAAAACAAAAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Modules\Translator\Main\TranslateUIText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TranslatorModule.Concrete.EnglishUIDictionaryFactory">
+    <Position X="15" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\Translator\Concrete\EnglishUIDictionaryFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TranslatorModule.Concrete.RussianUIDictionaryFactory">
+    <Position X="17" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\Translator\Concrete\RussianUIDictionaryFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="TranslatorModule.Abstract.IUIDictionaryFactory">
+    <Position X="16" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modules\Translator\Abstract\IUIDictionaryFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
